@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sahtushar.github.io/csb-xgece/static/css/main.3462ea86.chunk.css",
+    "main.js": "https://sahtushar.github.io/csb-xgece/static/js/main.e2ccba8e.chunk.js",
+    "main.js.map": "https://sahtushar.github.io/csb-xgece/static/js/main.e2ccba8e.chunk.js.map",
+    "runtime-main.js": "https://sahtushar.github.io/csb-xgece/static/js/runtime-main.d6619d27.js",
+    "runtime-main.js.map": "https://sahtushar.github.io/csb-xgece/static/js/runtime-main.d6619d27.js.map",
+    "static/js/2.8c2f8155.chunk.js": "https://sahtushar.github.io/csb-xgece/static/js/2.8c2f8155.chunk.js",
+    "static/js/2.8c2f8155.chunk.js.map": "https://sahtushar.github.io/csb-xgece/static/js/2.8c2f8155.chunk.js.map",
+    "index.html": "https://sahtushar.github.io/csb-xgece/index.html",
+    "static/css/main.3462ea86.chunk.css.map": "https://sahtushar.github.io/csb-xgece/static/css/main.3462ea86.chunk.css.map",
+    "static/js/2.8c2f8155.chunk.js.LICENSE.txt": "https://sahtushar.github.io/csb-xgece/static/js/2.8c2f8155.chunk.js.LICENSE.txt",
+    "static/media/circle.9fba390a.svg": "https://sahtushar.github.io/csb-xgece/static/media/circle.9fba390a.svg",
+    "static/media/loader.f6b7ad29.svg": "https://sahtushar.github.io/csb-xgece/static/media/loader.f6b7ad29.svg",
+    "static/media/truecaller.26163d27.svg": "https://sahtushar.github.io/csb-xgece/static/media/truecaller.26163d27.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6619d27.js",
+    "static/js/2.8c2f8155.chunk.js",
+    "static/css/main.3462ea86.chunk.css",
+    "static/js/main.e2ccba8e.chunk.js"
+  ]
+}
